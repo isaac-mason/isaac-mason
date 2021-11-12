@@ -1,3 +1,3 @@
 ### Hi there! 👋
 
-I actually live over here: https://gitlab.com/isaacmason/ 🙂
+I'm usually over here: https://gitlab.com/isaacmason/ 🙂

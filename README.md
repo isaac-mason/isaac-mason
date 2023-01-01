@@ -1,9 +1,5 @@
 ### Hi there! 👋
 
-I'm often over here: https://gitlab.com/isaacmason/
-
-Also check out my codesandboxes: https://codesandbox.io/u/isaac-mason
-
 **Right now I am**
 
 - 🍎 Working on grocery tech at Amazon
@@ -11,3 +7,8 @@ Also check out my codesandboxes: https://codesandbox.io/u/isaac-mason
 - 🔧 Making fun javascript things
 
 - 🐕 Trying to tire out my dog
+
+**Links**
+
+- [CodeSandbox](https://codesandbox.io/u/isaac-mason)
+- [GitLab](https://gitlab.com/isaacmason/)

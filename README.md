@@ -2,8 +2,8 @@
 
 **Right now I am**
 
-- 🍎 Working on grocery tech at Amazon
+- 🥭 Building a browser based gaming platform at [Jamango!](https://jamango.io/)
 
-- 🔧 Making fun javascript things
+- 🔧 Making fun javascript [things](https://sketches.isaacmason.com/)
 
 - 🐕 Trying to tire out my dog

@@ -4,13 +4,13 @@
 
 - 🧭 [navcat - javascript navigation mesh construction and querying library for 3D floor-based navigation](https://github.com/isaac-mason/navcat)
 - 💥 [crashcat - physics engine for javascript, built for games, simulations, and creative websites](https://github.com/isaac-mason/crashcat)
+- 🖥️ [gpucat - lightweight typescript-friendly WebGPU renderer](https://github.com/isaac-mason/gpucat)
 - 🧮 [mathcat - a collection of math helpers for 3D graphics and simulations](https://github.com/isaac-mason/mathcat)
 - 📦 [packcat - a small library for serializing and deserializing objects to and from buffers](https://github.com/isaac-mason/packcat)
 - 🏗️ [compilecat - javascript compiler plugin for hot-path optimizations — function inlining, scalar-replacement of aggregates (SROA), loop unrolling, more...](https://github.com/isaac-mason/compilecat)
 
 **cooking**
-- 🖥️ gpucat - lightweight typescript-friendly WebGPU renderer
-- 🐈 gatho - javascript multiplayer toolkit for building real-time games and applications
+- 🐈 [gatho - javascript multiplayer toolkit for building real-time games and applications](https://github.com/isaac-mason/gatho)
 - ...other secret cats...
 
 **not cats**

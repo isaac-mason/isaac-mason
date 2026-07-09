@@ -17,3 +17,4 @@
 - [sketches - open source sketches exploring graphics, physics, game ai, interaction, more](https://github.com/isaac-mason/sketches)
 - [recast-navigation-js - WebAssembly port of Recast Navigation, a navigation mesh construction, path-finding, and spatial reasoning toolkit](https://github.com/isaac-mason/recast-navigation-js)
 - [webidl-dts-gen - webidl to .d.ts converter](https://github.com/isaac-mason/webidl-dts-gen)
+- [box3d.js - wasm bindings for box3d](https://github.com/isaac-mason/box3d.js)

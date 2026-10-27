@@ -10,6 +10,8 @@
 - [compilecat - javascript compiler plugin for hot-path optimizations — function inlining, scalar-replacement of aggregates (SROA), loop unrolling, more...](https://github.com/isaac-mason/compilecat)
 
 **cooking**
+- [tumble - c++ physics engine for wasm, built for games, simulations, and creative websites](https://github.com/isaac-mason/tumble)
+- [roam - c++ navigation mesh construction and querying toolkit for 3D floor-based navigation](https://github.com/isaac-mason/roam)
 - [gatho - javascript multiplayer toolkit for building real-time games and applications](https://github.com/isaac-mason/gatho)
 - ...other secret cats...
 
